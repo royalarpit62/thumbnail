@@ -1,1 +1,1 @@
-# thumbnail.github.io
+# thumbnail
