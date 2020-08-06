@@ -1,0 +1,10 @@
+body{
+    background: url('images/image.jpg');
+    background-size:cover ;
+}
+.customlinks{
+    margin-left: auto;
+}
+.jumbotron{
+    background-color: f0f0f0;
+}
